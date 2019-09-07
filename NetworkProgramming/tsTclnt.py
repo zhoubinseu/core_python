@@ -2,8 +2,9 @@
 
 from socket import *
 
+HOST = '139.159.232.222'
 # HOST = '10.201.18.218'
-HOST = 'localhost'
+# HOST = 'localhost'
 PORT = 21567
 BUFSIZ = 1024
 ADDR = (HOST, PORT)
